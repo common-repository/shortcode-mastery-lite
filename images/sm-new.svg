@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F86A63" offset="0%"></stop>
+            <stop stop-color="#B52720" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50.0%" y="-16.7%" width="200.0%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50.0%" y="-16.7%" width="200.0%" height="133.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shortcode-Mastery" transform="translate(-95.000000, -83.000000)">
+            <g id="Logo" transform="translate(95.000000, 83.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="64" cy="64" r="64"></circle>
+                <g id="left-bracket" filter="url(#filter-2)" transform="translate(32.000000, 28.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" x="0" y="0" width="8" height="72" rx="4"></rect>
+                    <rect id="Rectangle" x="0" y="0" width="24" height="8" rx="4"></rect>
+                    <rect id="Rectangle" x="0" y="64" width="24" height="8" rx="4"></rect>
+                </g>
+                <g id="right-bracket" filter="url(#filter-3)" transform="translate(72.000000, 28.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" x="16" y="0" width="8" height="72" rx="4"></rect>
+                    <rect id="Rectangle" x="0" y="64" width="24" height="8" rx="4"></rect>
+                    <rect id="Rectangle" x="0" y="0" width="24" height="8" rx="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

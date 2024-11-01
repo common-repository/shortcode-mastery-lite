@@ -1,0 +1,1350 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Shortcode Mastery\n"
+"POT-Creation-Date: 2019-02-13 03:27+0300\n"
+"PO-Revision-Date: 2019-02-13 03:26+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: shortcode-mastery-lite.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: cache/get-post-details-by-id/get-post-details-by-id-elementor-widget.php:16
+msgid "Get Post Details By Id"
+msgstr ""
+
+#: cache/get-post-details-by-id/get-post-details-by-id-elementor-widget.php:28
+#: cache/taxonomy-and-date-query/taxonomy-and-date-query-elementor-widget.php:28
+#: cache/test/test-elementor-widget.php:28
+msgid "Attributes"
+msgstr ""
+
+#: cache/get-post-details-by-id/get-post-details-by-id-elementor-widget.php:35
+#: cache/taxonomy-and-date-query/taxonomy-and-date-query-elementor-widget.php:35
+#: cache/test/test-elementor-widget.php:35
+msgid "This is a Shortcode Mastery Widget"
+msgstr ""
+
+#: cache/get-post-details-by-id/get-post-details-by-id-elementor-widget.php:44
+#: cache/taxonomy-and-date-query/taxonomy-and-date-query-elementor-widget.php:44
+#: cache/test/test-elementor-widget.php:44
+msgid ""
+"<p style=\"line-height: 16px\">You can change all registered attributes on "
+"the <a href=\"https://wp.app/wp-admin/admin.php?page=shortcode-mastery\" "
+"target=\"_blank\">Shortcode Mastery</a> page.</p>"
+msgstr ""
+
+#: cache/taxonomy-and-date-query/taxonomy-and-date-query-elementor-widget.php:16
+msgid "Taxonomy And Date Query"
+msgstr ""
+
+#: cache/test/test-elementor-widget.php:16
+msgid "Test"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: classes/class.shortcode-mastery-elementor.php:103
+#: classes/class.shortcode-mastery-elementor.php:154
+#, php-format
+msgid ""
+"\"%1$s\" requires \"%2$s\" version %3$s or greater for success integration."
+msgstr ""
+
+#: classes/class.shortcode-mastery-elementor.php:105
+msgid "Elementor"
+msgstr ""
+
+#: classes/class.shortcode-mastery-elementor.php:156
+msgid "PHP"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: classes/class.shortcode-mastery-elementor.php:242
+#: classes/class.shortcode-mastery.php:762
+#: classes/class.shortcode-mastery.php:1181
+#: classes/class.shortcode-mastery.php:1695
+msgid "Shortcode Mastery"
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:66 includes/defaults.php:39
+msgid "Title"
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:67
+msgid "Shortcode"
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:68
+msgid "Actions"
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:123
+msgid "No shortcodes found."
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:127
+msgid "Let's create one..."
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:131
+msgid "Let's collected one..."
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:219
+#: classes/tinymce/class.shortcode-mastery-tinymce-item.php:84
+msgid "More Details"
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:245
+#: classes/class.shortcode-mastery.php:600
+msgid "JSON"
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:273
+#: classes/class.shortcode-mastery-table.php:323 includes/strings.php:10
+msgid "Delete"
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:277 includes/strings.php:9
+msgid "Edit"
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:279
+msgid "View"
+msgstr ""
+
+#: classes/class.shortcode-mastery-table.php:287
+msgid "Preview"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:536
+msgid "Shortcode saving..."
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:537
+msgid "Shortcode creating..."
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:538
+msgid "Shortcode saved"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:539
+msgid "Shortcode added"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:540
+msgid "Error in system"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:544 templates/title.php:53
+msgid "Remove Icon"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:545
+msgid "Select an image to upload"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:546
+msgid "Use this image"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:590
+msgid "Random required parameter"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:670
+#: classes/tinymce/class.shortcode-mastery-tinymce-item.php:160
+msgid "Dummy Content"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:763
+msgid "Shortcodes"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:772
+#: classes/class.shortcode-mastery.php:773
+#: classes/class.shortcode-mastery.php:1701
+#: classes/class.shortcode-mastery.php:1759
+#: classes/tinymce/class.shortcode-mastery-tinymce.php:98
+msgid "All Shortcodes"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:781
+#: classes/class.shortcode-mastery.php:782
+#: classes/class.shortcode-mastery.php:1705
+msgid "Create Shortcode"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:1536
+#: classes/class.shortcode-mastery.php:1540
+msgid "Bad title"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:1775
+msgid "Your Shortcodes"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:1775
+msgid "Collected Shortcodes"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:1840
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:1841
+msgid "You are not allowed to create shortcodes."
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:1942
+msgid "Edit shortcode"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:1952
+msgid "Create shortcode"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:1979
+msgid "Save shortcode"
+msgstr ""
+
+#: classes/class.shortcode-mastery.php:1986
+msgid "Close (Esc)"
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce-item.php:112
+msgid "Quick Insert"
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce-item.php:114
+msgid "Customize"
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce-item.php:134
+#: classes/tinymce/class.shortcode-mastery-tinymce-item.php:146
+msgid "default"
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce-item.php:140
+msgid " (Required)"
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce-item.php:150
+msgid "True"
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce-item.php:151
+msgid "False"
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce-item.php:166
+msgid "Insert Shortcode"
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce-table.php:97
+msgid "There is no shortcodes yet."
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce-table.php:180
+msgid "Searching results by "
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce.php:83
+msgid "Please fill required fields!"
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce.php:101
+msgid "Your Custom Shortcodes"
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce.php:111
+#: classes/tinymce/class.shortcode-mastery-tinymce.php:114
+msgid "Search Shortcodes"
+msgstr ""
+
+#: classes/tinymce/class.shortcode-mastery-tinymce.php:112
+msgid "Search shortcodes..."
+msgstr ""
+
+#: includes/defaults.php:38
+msgid "ID"
+msgstr ""
+
+#: includes/defaults.php:40
+msgid "Name"
+msgstr ""
+
+#: includes/defaults.php:41 includes/strings.php:62
+msgid "Type"
+msgstr ""
+
+#: includes/defaults.php:42
+msgid "Status"
+msgstr ""
+
+#: includes/defaults.php:43
+msgid "Parent"
+msgstr ""
+
+#: includes/defaults.php:44
+msgid "Children"
+msgstr ""
+
+#: includes/defaults.php:45
+msgid "Date Created"
+msgstr ""
+
+#: includes/defaults.php:46
+msgid "Time Created"
+msgstr ""
+
+#: includes/defaults.php:47
+msgid "Modified"
+msgstr ""
+
+#: includes/defaults.php:48
+msgid "Permalink"
+msgstr ""
+
+#: includes/defaults.php:49
+msgid "Content"
+msgstr ""
+
+#: includes/defaults.php:50
+msgid "Excerpt"
+msgstr ""
+
+#: includes/defaults.php:51
+msgid "Meta Field"
+msgstr ""
+
+#: includes/defaults.php:55 includes/strings.php:44
+msgid "Terms"
+msgstr ""
+
+#: includes/defaults.php:56
+msgid "Categories"
+msgstr ""
+
+#: includes/defaults.php:57
+msgid "Tags"
+msgstr ""
+
+#: includes/defaults.php:61 includes/defaults.php:103
+msgid "Author Name"
+msgstr ""
+
+#: includes/defaults.php:62
+msgid "Author Nicename"
+msgstr ""
+
+#: includes/defaults.php:63
+msgid "Author Email"
+msgstr ""
+
+#: includes/defaults.php:67
+msgid "Thumbnail Source"
+msgstr ""
+
+#: includes/defaults.php:68
+msgid "Thumbnail Alt"
+msgstr ""
+
+#: includes/defaults.php:69
+msgid "Thumbnail Widht"
+msgstr ""
+
+#: includes/defaults.php:70
+msgid "Thumbnail Height"
+msgstr ""
+
+#: includes/defaults.php:74
+msgid "Number of posts"
+msgstr ""
+
+#: includes/defaults.php:75
+msgid "Current Post"
+msgstr ""
+
+#: includes/defaults.php:76
+msgid "Is First Post"
+msgstr ""
+
+#: includes/defaults.php:77
+msgid "Is Last Post"
+msgstr ""
+
+#: includes/defaults.php:81
+msgid "GLOBALS"
+msgstr ""
+
+#: includes/defaults.php:82
+msgid "COOKIE"
+msgstr ""
+
+#: includes/defaults.php:83
+msgid "GET"
+msgstr ""
+
+#: includes/defaults.php:84
+msgid "POST"
+msgstr ""
+
+#: includes/defaults.php:85
+msgid "FILES"
+msgstr ""
+
+#: includes/defaults.php:86
+msgid "SESSION"
+msgstr ""
+
+#: includes/defaults.php:87
+msgid "REQUEST"
+msgstr ""
+
+#: includes/defaults.php:88
+msgid "ENV"
+msgstr ""
+
+#: includes/defaults.php:89
+msgid "SERVER"
+msgstr ""
+
+#: includes/defaults.php:98
+msgid "Author"
+msgstr ""
+
+#: includes/defaults.php:108
+msgid "Author IN"
+msgstr ""
+
+#: includes/defaults.php:113
+msgid "Author NOT IN"
+msgstr ""
+
+#: includes/defaults.php:122
+msgid "Cat"
+msgstr ""
+
+#: includes/defaults.php:127
+msgid "Category Name"
+msgstr ""
+
+#: includes/defaults.php:132
+msgid "Category AND"
+msgstr ""
+
+#: includes/defaults.php:137
+msgid "Category IN"
+msgstr ""
+
+#: includes/defaults.php:142
+msgid "Category NOT IN"
+msgstr ""
+
+#: includes/defaults.php:151
+msgid "Tag"
+msgstr ""
+
+#: includes/defaults.php:156
+msgid "Tag ID"
+msgstr ""
+
+#: includes/defaults.php:161
+msgid "Tag AND"
+msgstr ""
+
+#: includes/defaults.php:166
+msgid "Tag IN"
+msgstr ""
+
+#: includes/defaults.php:171
+msgid "Tag NOT IN"
+msgstr ""
+
+#: includes/defaults.php:176
+msgid "Tag Slug AND"
+msgstr ""
+
+#: includes/defaults.php:181
+msgid "Tag Slug IN"
+msgstr ""
+
+#: includes/defaults.php:190
+msgid "Tax Query"
+msgstr ""
+
+#: includes/defaults.php:199
+msgid "P"
+msgstr ""
+
+#: includes/defaults.php:204
+msgid "Post Name"
+msgstr ""
+
+#: includes/defaults.php:209
+msgid "Post Title"
+msgstr ""
+
+#: includes/defaults.php:214
+msgid "Page ID"
+msgstr ""
+
+#: includes/defaults.php:219
+msgid "Page Name"
+msgstr ""
+
+#: includes/defaults.php:224
+msgid "Post Parent"
+msgstr ""
+
+#: includes/defaults.php:229
+msgid "Posts Parent IN"
+msgstr ""
+
+#: includes/defaults.php:234
+msgid "Post Parent NOT IN"
+msgstr ""
+
+#: includes/defaults.php:239
+msgid "Post IN"
+msgstr ""
+
+#: includes/defaults.php:244
+msgid "Post NOT IN"
+msgstr ""
+
+#: includes/defaults.php:249
+msgid "Post Name IN"
+msgstr ""
+
+#: includes/defaults.php:258
+msgid "Post Type"
+msgstr ""
+
+#: includes/defaults.php:267
+msgid "Post Status"
+msgstr ""
+
+#: includes/defaults.php:276
+msgid "No Paging"
+msgstr ""
+
+#: includes/defaults.php:281
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/defaults.php:286
+msgid "Posts Offset"
+msgstr ""
+
+#: includes/defaults.php:291
+msgid "Posts Paged"
+msgstr ""
+
+#: includes/defaults.php:296
+msgid "Posts Page"
+msgstr ""
+
+#: includes/defaults.php:301
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: includes/defaults.php:310
+msgid "Posts Order"
+msgstr ""
+
+#: includes/defaults.php:315
+msgid "Posts Order By"
+msgstr ""
+
+#: includes/defaults.php:324 includes/strings.php:87 includes/strings.php:104
+msgid "Year"
+msgstr ""
+
+#: includes/defaults.php:329 includes/strings.php:88 includes/strings.php:105
+msgid "Month"
+msgstr ""
+
+#: includes/defaults.php:334
+msgid "Week Of The Year"
+msgstr ""
+
+#: includes/defaults.php:339 includes/strings.php:90 includes/strings.php:107
+#: includes/strings.php:111
+msgid "Day"
+msgstr ""
+
+#: includes/defaults.php:344 includes/strings.php:94 includes/strings.php:112
+msgid "Hour"
+msgstr ""
+
+#: includes/defaults.php:349 includes/strings.php:95 includes/strings.php:113
+msgid "Minute"
+msgstr ""
+
+#: includes/defaults.php:354 includes/strings.php:96 includes/strings.php:114
+msgid "Second"
+msgstr ""
+
+#: includes/defaults.php:359
+msgid "Year And Month"
+msgstr ""
+
+#: includes/defaults.php:364
+msgid "Date Query"
+msgstr ""
+
+#: includes/defaults.php:373
+msgid "Meta Key"
+msgstr ""
+
+#: includes/defaults.php:378
+msgid "Meta Value"
+msgstr ""
+
+#: includes/defaults.php:383
+msgid "Meta Value Num"
+msgstr ""
+
+#: includes/defaults.php:388
+msgid "Meta Compare"
+msgstr ""
+
+#: includes/defaults.php:393
+msgid "Meta Query"
+msgstr ""
+
+#: includes/defaults.php:420
+msgid "True or False"
+msgstr ""
+
+#: includes/defaults.php:425
+msgid "Use with additional options for advanced control elements"
+msgstr ""
+
+#: includes/defaults.php:432 includes/defaults.php:467
+msgid "Textfield"
+msgstr ""
+
+#: includes/defaults.php:436 includes/defaults.php:471
+msgid "Textarea"
+msgstr ""
+
+#: includes/defaults.php:440
+msgid "HTML"
+msgstr ""
+
+#: includes/defaults.php:444
+msgid "Checkbox"
+msgstr ""
+
+#: includes/defaults.php:448
+msgid "Post Types"
+msgstr ""
+
+#: includes/defaults.php:452
+msgid "Single Image"
+msgstr ""
+
+#: includes/defaults.php:456
+msgid "Multiple Images"
+msgstr ""
+
+#: includes/defaults.php:460 includes/defaults.php:493
+msgid "ColorPicker"
+msgstr ""
+
+#: includes/defaults.php:475
+msgid "Switcher"
+msgstr ""
+
+#: includes/defaults.php:479
+msgid "Code"
+msgstr ""
+
+#: includes/defaults.php:483
+msgid "Select"
+msgstr ""
+
+#: includes/defaults.php:484 includes/defaults.php:489
+msgid ""
+"Use Extended type of parameter and additional options to define values. "
+"Example: {\"key1\":\"value 1\",\"key2\":\"value 2\"}"
+msgstr ""
+
+#: includes/defaults.php:488
+msgid "Select 2"
+msgstr ""
+
+#: includes/defaults.php:494
+msgid "Default color in RGB, RGBA, or HEX format"
+msgstr ""
+
+#: includes/defaults.php:498
+msgid "Icon"
+msgstr ""
+
+#: includes/defaults.php:499
+msgid ""
+"Use Extended type of parameter and additional options to define values. "
+"Example: [\"fa fa-facebook\",\"fa fa-twitter\"]"
+msgstr ""
+
+#: includes/defaults.php:503
+msgid "Google Font"
+msgstr ""
+
+#: includes/defaults.php:507
+msgid "Date Time"
+msgstr ""
+
+#: includes/defaults.php:508
+msgid "Default date/time in MySQL format (YYYY-mm-dd HH:ii)"
+msgstr ""
+
+#: includes/defaults.php:512
+msgid "Animation"
+msgstr ""
+
+#: includes/defaults.php:516
+msgid "Hover animation"
+msgstr ""
+
+#: includes/defaults.php:520
+msgid "Gallery"
+msgstr ""
+
+#: includes/defaults.php:521
+msgid ""
+"Use JSON format to define values. Example: [{\"id\":\"1\",\"url\":\"http://"
+"link-to-media.jpg\"}]"
+msgstr ""
+
+#: includes/strings.php:7
+msgid "Up"
+msgstr ""
+
+#: includes/strings.php:8
+msgid "Down"
+msgstr ""
+
+#: includes/strings.php:11
+msgid "Add new"
+msgstr ""
+
+#: includes/strings.php:12
+msgid "Null"
+msgstr ""
+
+#: includes/strings.php:13
+msgid "Group with nesting"
+msgstr ""
+
+#: includes/strings.php:14
+msgid "Relationship"
+msgstr ""
+
+#: includes/strings.php:15
+msgid "Add new parameter"
+msgstr ""
+
+#: includes/strings.php:16
+msgid "Edit current parameter"
+msgstr ""
+
+#: includes/strings.php:20
+msgid "Add custom query logic. Use predefined templates below."
+msgstr ""
+
+#: includes/strings.php:21
+msgid "Step 1: Choose query group"
+msgstr ""
+
+#: includes/strings.php:22
+msgid "Step 2: Choose query method"
+msgstr ""
+
+#: includes/strings.php:23
+msgid "Step 3: Add arguments"
+msgstr ""
+
+#: includes/strings.php:24
+msgid "Choose query group:"
+msgstr ""
+
+#: includes/strings.php:25
+msgid "Choose query method:"
+msgstr ""
+
+#: includes/strings.php:26
+msgid "Add custom arguments for"
+msgstr ""
+
+#: includes/strings.php:27
+msgid "You can use parameters:"
+msgstr ""
+
+#: includes/strings.php:28
+msgid "Just copy and paste into the field below."
+msgstr ""
+
+#: includes/strings.php:32 includes/strings.php:36 includes/strings.php:42
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/strings.php:37 includes/strings.php:43
+msgid "Field"
+msgstr ""
+
+#: includes/strings.php:38
+msgid "Terms (with commas)"
+msgstr ""
+
+#: includes/strings.php:45
+msgid "Operator"
+msgstr ""
+
+#: includes/strings.php:46
+msgid "Include Children"
+msgstr ""
+
+#: includes/strings.php:50
+msgid "Taxonomy being queried <span style=\"color:#c0392b\">(required)</span>."
+msgstr ""
+
+#: includes/strings.php:51
+msgid ""
+"Term or terms are separated by commas to filter by <span style=\"color:"
+"#c0392b\">(required)</span>."
+msgstr ""
+
+#: includes/strings.php:55
+msgid "Meta"
+msgstr ""
+
+#: includes/strings.php:59 includes/strings.php:66
+msgid "Key"
+msgstr ""
+
+#: includes/strings.php:60
+msgid "Value"
+msgstr ""
+
+#: includes/strings.php:61
+msgid "Compare"
+msgstr ""
+
+#: includes/strings.php:67
+msgid "Values (with commas)"
+msgstr ""
+
+#: includes/strings.php:71
+msgid "Meta key to filter by <span style=\"color:#c0392b\">(required)</span>."
+msgstr ""
+
+#: includes/strings.php:72
+msgid "Meta value or values are separated by commas to filter by."
+msgstr ""
+
+#: includes/strings.php:76
+msgid "Error: check inputs"
+msgstr ""
+
+#: includes/strings.php:77
+msgid "Error: duplicated names"
+msgstr ""
+
+#: includes/strings.php:78
+msgid "Error: duplicated values"
+msgstr ""
+
+#: includes/strings.php:79
+msgid "Error: unknown!"
+msgstr ""
+
+#: includes/strings.php:83
+msgid "Date"
+msgstr ""
+
+#: includes/strings.php:89 includes/strings.php:106
+msgid "Week"
+msgstr ""
+
+#: includes/strings.php:91 includes/strings.php:108
+msgid "Day of year"
+msgstr ""
+
+#: includes/strings.php:92 includes/strings.php:109
+msgid "Day of week"
+msgstr ""
+
+#: includes/strings.php:93 includes/strings.php:110
+msgid "Day of week (ISO)"
+msgstr ""
+
+#: includes/strings.php:97
+msgid "After Date"
+msgstr ""
+
+#: includes/strings.php:98
+msgid "Before Date"
+msgstr ""
+
+#: includes/strings.php:99
+msgid "Column to query"
+msgstr ""
+
+#: includes/strings.php:100
+msgid "Inclusive"
+msgstr ""
+
+#: includes/strings.php:115
+msgid "After Date ( Year | Month | Day )"
+msgstr ""
+
+#: includes/strings.php:116
+msgid "Before Date ( Year | Month | Day )"
+msgstr ""
+
+#: includes/strings.php:120
+msgid ""
+"The four-digit year number. Accepts any four-digit year or an array of years."
+msgstr ""
+
+#: includes/strings.php:121
+msgid ""
+"The two-digit month number. Accepts numbers 1-12 or an array of valid "
+"numbers."
+msgstr ""
+
+#: includes/strings.php:122
+msgid ""
+"The week number of the year. Accepts numbers 0-53 or an array of valid "
+"numbers."
+msgstr ""
+
+#: includes/strings.php:123
+msgid ""
+"The day of the month. Accepts numbers 1-31 or an array of valid numbers."
+msgstr ""
+
+#: includes/strings.php:124
+msgid ""
+"The day number of the year. Accepts numbers 1-366 or an array of valid "
+"numbers."
+msgstr ""
+
+#: includes/strings.php:125
+msgid ""
+"The day number of the week. Accepts numbers 1-7 (1 is Sunday) or an array of "
+"valid numbers."
+msgstr ""
+
+#: includes/strings.php:126
+msgid ""
+"The day number of the week (ISO). Accepts numbers 1-7 (1 is Monday) or an "
+"array of valid numbers."
+msgstr ""
+
+#: includes/strings.php:127
+msgid "The hour of the day. Accepts numbers 0-23 or an array of valid numbers."
+msgstr ""
+
+#: includes/strings.php:128
+msgid ""
+"The minute of the hour. Accepts numbers 0-60 or an array of valid numbers."
+msgstr ""
+
+#: includes/strings.php:129
+msgid ""
+"The second of the minute. Accepts numbers 0-60 or an array of valid numbers."
+msgstr ""
+
+#: includes/strings.php:130
+msgid ""
+"Date to retrieve posts after. Accepts <code>strtotime()</code>-compatible "
+"string, or array of 'year', 'month', 'day' values."
+msgstr ""
+
+#: includes/strings.php:131
+msgid ""
+"Date to retrieve posts before. Accepts <code>strtotime()</code>-compatible "
+"string, or array of 'year', 'month', 'day' values."
+msgstr ""
+
+#: includes/strings.php:132
+msgid ""
+"The four-digit year number plus two-digit month number. Accepts any four-"
+"digit year then numbers 01-12."
+msgstr ""
+
+#: includes/strings.php:135
+msgid "WPBackery parameter type:"
+msgstr ""
+
+#: includes/strings.php:136
+msgid "Elementor parameter type:"
+msgstr ""
+
+#: includes/strings.php:137
+msgid "Parameter value:"
+msgstr ""
+
+#: includes/strings.php:138
+msgid "Parameter additional options:"
+msgstr ""
+
+#: templates/loop.php:15
+msgid "Loop"
+msgstr ""
+
+#: templates/loop.php:15
+msgid "Renders only if Query presented and {@ LOOP @} added in Markup"
+msgstr ""
+
+#: templates/loop.php:17
+msgid ""
+"Edit loop section that repeats every loop. Use <strong>text</strong>, "
+"<strong>html</strong>, <strong>parameters</strong>, <strong><span v-html="
+"\"'&#123;&#123;'\"></span> post.post_property <span v-html=\"'&#125;"
+"&#125;'\"></span></strong>, <strong><span v-html=\"'&#123;&#123;'\"></span> "
+"fn( \"php_function_name\", \"param_1\", \"param_2\", ... ) <span v-html="
+"\"'&#125;&#125;'\"></span></strong> or php global objects <strong><span v-"
+"html=\"'&#123;&#123;'\"></span> GLOBALS|COOKIE|POST|GET... <span v-html="
+"\"'&#125;&#125;'\"></span></strong>."
+msgstr ""
+
+#: templates/loop.php:19
+msgid ""
+"Use predefined template buttons to access <strong>loop object data</strong>:"
+msgstr ""
+
+#: templates/loop.php:23 templates/markup.php:23 templates/scripts.php:45
+#: templates/styles.php:43
+msgid "Parameters:"
+msgstr ""
+
+#: templates/loop.php:37
+msgid "Loop Post:"
+msgstr ""
+
+#: templates/loop.php:50
+msgid "Loop Post Thumbnail:"
+msgstr ""
+
+#: templates/loop.php:63
+msgid "Loop Post Author:"
+msgstr ""
+
+#: templates/loop.php:76
+msgid "Loop Post Terms:"
+msgstr ""
+
+#: templates/loop.php:89
+msgid "Loop counts:"
+msgstr ""
+
+#: templates/loop.php:102 templates/markup.php:96
+msgid "Shortcode Content:"
+msgstr ""
+
+#: templates/loop.php:105 templates/markup.php:99
+msgid "Insert shortcode content"
+msgstr ""
+
+#: templates/markup.php:15
+msgid "Markup"
+msgstr ""
+
+#: templates/markup.php:15
+msgid "Main section - your shortcode body"
+msgstr ""
+
+#: templates/markup.php:17
+msgid ""
+"Edit shortcode markup. Use <strong>text</strong>, <strong>html</strong>, "
+"<strong>parameters</strong>, <strong><span v-html=\"'&#123;&#123;'\"></span> "
+"fn( \"php_function_name\", \"param_1\", \"param_2\", ... ) <span v-html="
+"\"'&#125;&#125;'\"></span></strong> or php global objects <strong><span v-"
+"html=\"'&#123;&#123;'\"></span> GLOBALS|COOKIE|POST|GET... <span v-html="
+"\"'&#125;&#125;'\"></span></strong>."
+msgstr ""
+
+#: templates/markup.php:19
+msgid ""
+"Use predefined template buttons to access <strong>current post or page data</"
+"strong> from where the shortcode was called:"
+msgstr ""
+
+#: templates/markup.php:37
+msgid "Current Post:"
+msgstr ""
+
+#: templates/markup.php:50
+msgid "Current Post Thumbnail:"
+msgstr ""
+
+#: templates/markup.php:63
+msgid "Current Post Author:"
+msgstr ""
+
+#: templates/markup.php:76
+msgid "Current Post Terms:"
+msgstr ""
+
+#: templates/markup.php:89
+msgid "Your Custom Loop:"
+msgstr ""
+
+#: templates/markup.php:92
+msgid "Insert repeatable content from Loop"
+msgstr ""
+
+#: templates/params.php:11
+msgid "Parameters"
+msgstr ""
+
+#: templates/params.php:11
+msgid "Shortcode parameters"
+msgstr ""
+
+#: templates/params.php:13
+msgid "Add custom parameters to your brand new shortcode. "
+msgstr ""
+
+#: templates/params.php:17
+msgid ""
+"If parameter is required and value is empty, <br>the markup will not be "
+"rendered"
+msgstr ""
+
+#: templates/params.php:26
+msgid "Required?"
+msgstr ""
+
+#: templates/params.php:29
+msgid "Parameter type:"
+msgstr ""
+
+#: templates/params.php:37
+msgid "Parameter name"
+msgstr ""
+
+#: templates/params.php:38
+msgid "Default value"
+msgstr ""
+
+#: templates/params.php:39
+msgid "Parameter title (for builders)"
+msgstr ""
+
+#: templates/params.php:40
+msgid "Parameter description (for builders)"
+msgstr ""
+
+#: templates/params.php:41
+msgid "Additional options (for builders, use JSON)"
+msgstr ""
+
+#: templates/params.php:42
+msgid "parameter"
+msgstr ""
+
+#: templates/query.php:15
+msgid "Query"
+msgstr ""
+
+#: templates/query.php:15
+msgid "Define repeatable content in Loop after"
+msgstr ""
+
+#: templates/query.php:23 templates/query.php:39
+msgid "Value of argument"
+msgstr ""
+
+#: templates/query.php:24
+msgid "value"
+msgstr ""
+
+#: templates/query.php:25
+msgid "Step back"
+msgstr ""
+
+#: templates/query.php:29
+msgid "Query arguments list:"
+msgstr ""
+
+#: templates/query.php:38
+msgid "Name of argument"
+msgstr ""
+
+#: templates/query.php:40
+msgid "argument"
+msgstr ""
+
+#: templates/scripts.php:15
+msgid "Scripts"
+msgstr ""
+
+#: templates/scripts.php:15
+msgid "JS for your shortcode"
+msgstr ""
+
+#: templates/scripts.php:17
+msgid "Whether to enqueue the scripts:"
+msgstr ""
+
+#: templates/scripts.php:29
+msgid "Where to enqueue:"
+msgstr ""
+
+#: templates/scripts.php:33
+msgid "Name of script"
+msgstr ""
+
+#: templates/scripts.php:34
+msgid "URL of script"
+msgstr ""
+
+#: templates/scripts.php:35
+msgid "script"
+msgstr ""
+
+#: templates/scripts.php:41
+msgid ""
+"Edit shortcode inline scripts. Use <strong>javascript</strong>, "
+"<strong><span v-html=\"'&#123;&#123;'\"></span> parameter_name <span v-html="
+"\"'&#125;&#125;'\"></span></strong>, <strong><span v-html=\"'&#123;"
+"&#123;'\"></span> fn( \"php_function_name\", \"param_1\", \"param_2\", ... ) "
+"<span v-html=\"'&#125;&#125;'\"></span></strong>."
+msgstr ""
+
+#: templates/scripts.php:72
+msgid "Write inline scripts to file?"
+msgstr ""
+
+#: templates/scripts.php:73
+msgid "Enqueue JS file instead"
+msgstr ""
+
+#: templates/styles.php:15
+msgid "Styles"
+msgstr ""
+
+#: templates/styles.php:15
+msgid "CSS for your shortcode"
+msgstr ""
+
+#: templates/styles.php:17
+msgid "Add custom styles to header:"
+msgstr ""
+
+#: templates/styles.php:31
+msgid "Name of style"
+msgstr ""
+
+#: templates/styles.php:32
+msgid "URL of style"
+msgstr ""
+
+#: templates/styles.php:33
+msgid "style"
+msgstr ""
+
+#: templates/styles.php:39
+msgid ""
+"Edit shortcode inline styles. Use <strong>css</strong>, <strong><span v-html="
+"\"'&#123;&#123;'\"></span> parameter_name <span v-html=\"'&#125;&#125;'\"></"
+"span></strong>, <strong><span v-html=\"'&#123;&#123;'\"></span> "
+"fn( \"php_function_name\", \"param_1\", \"param_2\", ... ) <span v-html="
+"\"'&#125;&#125;'\"></span></strong>."
+msgstr ""
+
+#: templates/styles.php:70
+msgid "Write inline styles to file?"
+msgstr ""
+
+#: templates/styles.php:71
+msgid "Enqueue CSS file instead"
+msgstr ""
+
+#: templates/title.php:11
+msgid "Settings"
+msgstr ""
+
+#: templates/title.php:11
+msgid "Basic shortcode customization"
+msgstr ""
+
+#: templates/title.php:56
+msgid "Shortcode name"
+msgstr ""
+
+#: templates/title.php:59
+msgid ""
+"Title is required and should contains only letters, numbers, dashes or "
+"underscores."
+msgstr ""
+
+#: templates/title.php:61
+msgid "Shortcode description"
+msgstr ""
+
+#: templates/title.php:62
+msgid "Optional short description for your brand new shortcode. HTML allowed."
+msgstr ""
+
+#: templates/title.php:68
+msgid "Upload icon"
+msgstr ""
+
+#: templates/title.php:69
+msgid "Should be 128x128"
+msgstr ""
+
+#: templates/title.php:76
+msgid "Integrate with WPBakery Page Builder?"
+msgstr ""
+
+#: templates/title.php:77
+msgid "Map shortcode with WPBakery Page Builder"
+msgstr ""
+
+#: templates/title.php:85
+msgid "Integrate with Elementor Page Builder?"
+msgstr ""
+
+#: templates/title.php:86
+msgid "Map shortcode with Elementor Page Builder"
+msgstr ""
+
+#: templates/title.php:90
+msgid "Shortcode code:"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Wordpress Shortcodes Creator"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Uncleserj"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://uncleserj.com/"
+msgstr ""
